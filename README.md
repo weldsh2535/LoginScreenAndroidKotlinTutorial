@@ -1,2 +1,2 @@
-# SampleAppTutorial
-Sample username UI display xml file
+# Login Screen UI 
+Sample Login Screen UI Design
